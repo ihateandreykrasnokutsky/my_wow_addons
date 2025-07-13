@@ -1,0 +1,4 @@
+1. Put the addon into the AddOns folder.
+2. Turn it on in the character selection menu.
+3. Write /absurdrevive in the chat window, or create a macro with a single command /absurdrevive.
+

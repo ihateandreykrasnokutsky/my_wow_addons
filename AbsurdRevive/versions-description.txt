@@ -1,0 +1,10 @@
+1.01
+
+100 names, 100 mes1, 100 mes2.
+4 classes are supported (priest, shaman, paladin, druid).
+Druid casts the Rebirth spell upon calling the addon command (/absurdrevive).
+
+What the addon does: if your target is dead, it writes the message into the chat (/s atm), in the format [text1][%target]![name][text2], for example "This is not a vacation, %target! Santa Claws rated your death 2/10.", and casts a resurrection spell, based on a class of your character.
+
+-------------------------
+
