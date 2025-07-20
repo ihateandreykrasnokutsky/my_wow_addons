@@ -17,3 +17,7 @@ Added a lot of resurrection messages of different styles.
 
 -------------------------
 
+1.03
+
+More types of messages.
+

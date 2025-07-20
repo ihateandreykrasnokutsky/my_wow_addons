@@ -1,3 +1,4 @@
 1. Open the file AbsurdRevive.lua (better use some simple code editor that can highlight syntax, but it's doable via the Notepad too).
-2. There are 2 kinds of lists lists: mes1 and mes2. Each mes1 and mes2 variable has a subset (list/table) of variables, for example mes1[1], mes1[2], etc. You can add another subset for your own message style. Just don't mess up the enumeration order (1,2,3,4,5,...,n-1,n).
-3. Edit them.
+2. There are 2 kinds of lists: mes1 and mes2. Each mes1 and mes2 variable has a subset (list/table) of variables, for example mes2[11]. 2 means 2nd part of the message. [11] is the type of the message (horror/anime/blockbaster/etc style).
+3. You can add more types (the number in []), but not the number of messages (now it's 2) without editing the global structure of the program.
+4. Edit them.
