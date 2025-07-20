@@ -8,3 +8,12 @@ What the addon does: if your target is dead, it writes the message into the chat
 
 -------------------------
 
+1.02
+
+changed the format of messages
+Now it's just [mes1 %t mes2].
+Also I optimized the code, so now it's much more compact.
+Added a lot of resurrection messages of different styles.
+
+-------------------------
+

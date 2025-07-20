@@ -2,5 +2,5 @@
 ## Title: AbsurdRevive Addon
 ## Notes: Say something ridiculous when you cast a resurrection spell
 ## Author: Forrie
-## Version: 1.01
+## Version: 1.02
 AbsurdRevive.lua
