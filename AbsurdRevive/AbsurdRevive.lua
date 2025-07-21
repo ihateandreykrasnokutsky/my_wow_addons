@@ -1349,7 +1349,7 @@ mes1[18]= -- The ultra-cheery hype for mes1 paired with a chilling, horror-theme
     "Keep the victory in sight, ",
     "Onward to glory, "
 }
-mes2=
+mes2[18]=
 {
     ", but the shadows whisper your doom.",
     ", though death's grip still lingers.",
